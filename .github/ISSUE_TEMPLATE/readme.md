@@ -1,10 +1,10 @@
 ---
 name: Custom issue template
 about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
+title: 'hr portal'
+labels: '1'
+assignees: 'deepak'
+author :'deepak kushwah'
 ---
 
 
